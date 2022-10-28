@@ -1,10 +1,10 @@
 // Include the required header files.
 
-#include "hunter.h"
+#include "Tesla.h"
 
 // Define the static member variable.
 
-int hunter::nextID = 1000;
+int Tesla::nextvinNumber = 1000001;
 
 // Define the constructor.
 
